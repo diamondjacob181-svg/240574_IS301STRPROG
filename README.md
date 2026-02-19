@@ -1,2 +1,2 @@
 # 240574_IS301STRPROG
-This is IS301 Ptojects and Labs Folder 
+This is IS301 Projects and Labs Folder 
